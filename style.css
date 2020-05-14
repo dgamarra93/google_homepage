@@ -1,0 +1,130 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px
+}
+
+
+#header ul li{
+    display: inline;
+    padding-left: 13px;
+    padding-right: 13px;
+  
+
+    
+
+}
+
+
+.right-links {
+    float: right;
+    margin-top: -29px;
+    margin-right: 100px;
+
+}
+
+.image-links {
+
+    float: right;
+    margin-top: -40px;
+    margin-right: -10px;
+
+}
+
+
+.appsicon img {
+    width: 20px;
+    height: 20px;
+    
+
+}
+
+
+.profile-pic img {
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: ;   
+   
+
+}
+
+#container {
+    text-align: center;
+
+}
+
+h1#logo {
+    width: 272px;
+    height: 92px;
+    background: url(googlelogo_color_272x92dp.png) top left no-repeat;
+    background-size: 100%;
+    text-indent: -9999px;
+    margin: auto;
+    margin-top: 110px;
+
+}
+
+
+input[type="text"] {
+
+    width: 700px;
+    padding: 10px;
+    margin: 15px 0 15px;
+    border-radius: 15px;
+    border: solid 1px #ccc; 
+    font-size: 16px;
+    align-content: center;
+}
+
+#buttons {
+    text-align: center;
+
+}
+
+input[type="text"]:hover {
+    border-color: #aaa
+}
+input[type="submit"] {
+    background: #eee;
+    color: #333;
+    border: solid 1px #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 11px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    margin: 0 5px; 
+
+}
+
+input[type="submit"]:hover {
+    cursor: pointer;
+    border-color: black;
+}
+
+footer {
+
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: lightgrey;
+    
+}
+ footer nav ul {
+    float: left;
+    
+ }
+
+ footer nav ul.right-links {
+
+    float: right;
+    margin: 12px;
+    padding-right: 10px;
+    padding-left: 10px;
+ }
+
+ footer nav ul li {
+     display: inline;
+     padding-right: 10px;
+ }
+
+ 
